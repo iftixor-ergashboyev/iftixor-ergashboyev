@@ -1,4 +1,4 @@
-<img align="center" alt="Coding"  src="https://www.canva.com/design/DAGJ-Pr1WOs/RcZ-HxOph8rmEYKy5QLYEA/edit?utm_content=DAGJ-Pr1WOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img align="center" alt="Coding"  src="https://scontent.ftas7-1.fna.fbcdn.net/v/t39.30808-6/450398417_418589337846807_8232992469337107211_n.png?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=cdJUBQl4Ff0Q7kNvgFctZ67&_nc_ht=scontent.ftas7-1.fna&oh=00_AYCiDivK-5adlGMrIAABbCVxdh0KlSmvGbcmqxj_mO5XvA&oe=6693290A">
 <h1 align="center">Hi 👋, I'm Ifixor</h1>
 <h3 align="center">A passionate Mobile-developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
