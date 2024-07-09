@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iftixor_dev" target="blank"><img src="https://img.shields.io/twitter/follow/iftixor_dev?logo=twitter&style=for-the-badge" alt="iftixor_dev" /></a> </p>
 
-- 🔭 I’m currently working on **Sog'lom ayol**
+- 🔭 I’m currently working on **Wednesday - Wallpapers & pictures**
 
 - 🌱 I’m currently learning **Dart programming language**
 
